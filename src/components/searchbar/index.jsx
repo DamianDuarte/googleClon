@@ -12,7 +12,5 @@ export const SearchBar = () => {
                     <button className="bg-slate-100 hover:bg-slate-300 text-black font-medium py-2 px-4 rounded-full" style={{ borderRadius: "30px 30px 30px 30px" }}>Voy a tener suerte</button>
                 </div>
             </div>
-           
-
           )
 }
